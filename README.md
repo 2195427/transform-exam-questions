@@ -15,6 +15,7 @@ Type following commands to clone the pharaphrase git repository in working direc
 
   
 git lfs install
+  
 git clone https://huggingface.co/tuner007/pegasus_paraphrase 
 
 
