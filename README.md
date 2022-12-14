@@ -12,6 +12,8 @@ git clone https://github.com/2195427/transform-exam-questions.git
 making transform-exam-questions as your working directory, or rename it to your working directory
 
 Type following commands to clone the pharaphrase git repository in working directory:
+
+  
 git lfs install
 git clone https://huggingface.co/tuner007/pegasus_paraphrase 
 
