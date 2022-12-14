@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<config>
+<database>
+	<host>localhost</host>
+	<user>root</user>
+	<password></password>
+	<dbname>test</dbname>
+	<!--<port>4306</port>-->
+
+</database>
+<path>
+	<rooturl>http://localhost/exammvc</rooturl>
+</path>
+</config>
