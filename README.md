@@ -18,8 +18,9 @@ url:localhost/working directory/exammvc/index.php
 
 upload a .txt file(exam file), transform questions part to a new .txt file for students(trans*.txt)and professors(teachtrans*.txt).
 
-image
+![Screenshot 2022-12-13 164708](https://user-images.githubusercontent.com/106719596/207713736-41c98966-3c45-4c36-8274-fe7f35f54072.png)
 
-image
+![Screenshot 2022-12-13 164818](https://user-images.githubusercontent.com/106719596/207713837-f6cc1ea1-3d3d-4e4f-b598-9f23ac0ca2f0.png)
 
-image
+![image](https://user-images.githubusercontent.com/106719596/207713533-6113e2f6-6597-45f6-9cf3-4299762bf8cc.png)
+
